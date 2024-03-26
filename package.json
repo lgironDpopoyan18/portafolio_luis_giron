@@ -1,7 +1,6 @@
 {
-  "name": "portafolio-luis",
-  "private": true,
-  "homepage": "http://lgironDpopoyan18.github.io/portafolio_luis_giron",
+  "name": "portafolio_luis_giron",
+  "homepage": "https://lgironDpopoyan18.github.io/portafolio_luis_giron",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
